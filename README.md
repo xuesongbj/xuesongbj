@@ -6,3 +6,5 @@
 - 📫 How to reach me: [xuesong](http://www.pydevops.com)
 
 <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=xuesongbj&show_icons=true&include_all_commits=true&theme=material-palenight" alt="xuesongbj's github stats" />
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=xuesongbj.xuesongbj" alt="visitor badge"/>
